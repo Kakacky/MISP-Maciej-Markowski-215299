@@ -1,0 +1,1 @@
+Poniewaz datasety oraz biblioteka odpowiadajaca za sprawdzanie poprawnosci wykonania zadan sa dostepne na stronie kaggle, funkcjonalnosc plikow z tego folderu moze byc ograniczona
